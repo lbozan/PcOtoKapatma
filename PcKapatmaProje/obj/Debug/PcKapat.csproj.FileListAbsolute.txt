@@ -1,0 +1,8 @@
+C:\Users\LBozan\Documents\Visual Studio 2012\Projects\PcKapat\PcKapat\bin\Debug\PcKapat.exe
+C:\Users\LBozan\Documents\Visual Studio 2012\Projects\PcKapat\PcKapat\bin\Debug\PcKapat.pdb
+C:\Users\LBozan\Documents\Visual Studio 2012\Projects\PcKapat\PcKapat\obj\Debug\PcKapat.Form1.resources
+C:\Users\LBozan\Documents\Visual Studio 2012\Projects\PcKapat\PcKapat\obj\Debug\PcKapat.Properties.Resources.resources
+C:\Users\LBozan\Documents\Visual Studio 2012\Projects\PcKapat\PcKapat\obj\Debug\PcKapat.csproj.GenerateResource.Cache
+C:\Users\LBozan\Documents\Visual Studio 2012\Projects\PcKapat\PcKapat\obj\Debug\PcKapat.exe
+C:\Users\LBozan\Documents\Visual Studio 2012\Projects\PcKapat\PcKapat\obj\Debug\PcKapat.pdb
+C:\Users\LBozan\documents\visual studio 2012\Projects\PcKapat\PcKapat\obj\Debug\PcKapat.csprojResolveAssemblyReference.cache
